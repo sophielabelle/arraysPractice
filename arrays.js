@@ -13,3 +13,5 @@ console.log(studentsHeight);
 // Using .shift removes the first element of an array and returens its
 studentCompleteAssignments.shift();
 console.log(studentCompleteAssignments);
+
+// Index positions are the locations of each element in and array. They start with 0 and go up from there. So with a array with 5 elements their index positions would be 0, 1, 2, 3, and 4. 
